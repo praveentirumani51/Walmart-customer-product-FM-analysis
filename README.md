@@ -41,5 +41,9 @@ The goal is to uncover **actionable insights** for customer retention, loyalty b
 - Linked **demographics to purchase behavior**  
 - Provided **business-ready recommendations**  
 
----
+Project Files
+-  [Final Report (PDF)](./Walmart%20Stats%20Report.pdf)
+   [Presentation (PPTX)](./Walmart%20Product%20-%20Fm%20Segment%20Analysis.pptx)
+- [Full Excel Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1mPCcThVm8-TPOcBMCpDyFSgznp7KVGBY/edit?usp=drive_link&ouid=115259981734726290567&rtpof=true&sd=true)
+
 
